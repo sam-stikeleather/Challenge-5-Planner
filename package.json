@@ -1,0 +1,23 @@
+{
+  "name": "challenge-5-planner",
+  "version": "1.0.0",
+  "description": "Sam Stikeleather Challenge 05",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-stikeleather/Challenge-5-Planner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sam-stikeleather/Challenge-5-Planner/issues"
+  },
+  "homepage": "https://github.com/sam-stikeleather/Challenge-5-Planner#readme",
+  "dependencies": {
+    "dayjs": "^1.11.9"
+  }
+}

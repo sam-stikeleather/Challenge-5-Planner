@@ -21,3 +21,30 @@ $(function () {
     //
     // TODO: Add code to display the current date in the header of the page.
   });
+
+// import dayjs from 'dayjs';
+
+let now = dayjs();
+
+console.log(now);
+
+let year = now.year();
+console.log(`Year: ${year}`);
+
+let month = now.month();
+console.log(`Month: ${month}`);
+
+let date = now.date();
+console.log(`Date: ${date}`);
+
+let hour = now.hour();
+console.log(`Hour: ${hour}`);
+
+let minute = now.minute();
+console.log(`Minute: ${minute}`);
+
+let second = now.second();
+console.log(`Second: ${second}`);
+
+let milli = now.millisecond();
+console.log(`Millisecond: ${milli}`);
