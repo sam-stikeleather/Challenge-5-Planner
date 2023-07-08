@@ -23,7 +23,7 @@ As mentioned above, the usage is really quite simple. Enter your scheduled event
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
    
-    ![save buttons](assets/images/savebuttons.png)
+    ![save buttons](assets/images/buttons.png)
     
 
     
